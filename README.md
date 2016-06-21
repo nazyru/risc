@@ -1,2 +1,0 @@
-# risc
-A RISC project
