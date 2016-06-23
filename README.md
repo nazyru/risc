@@ -1,2 +1,2 @@
-# risc
-A RISC project
+# risck
+A RISCK project
